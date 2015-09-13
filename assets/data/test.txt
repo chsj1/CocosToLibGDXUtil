@@ -1,0 +1,9 @@
+{
+x: XXX ,
+y: XXX ,
+width : XXX,
+height : XXX,
+rotation: XXX,
+scaleX: XXX,
+scaleY: XXX,
+}
